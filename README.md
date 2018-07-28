@@ -1,2 +1,0 @@
-# dastatus
-Soccer App
